@@ -1,2 +1,2 @@
-# thoths-wiki
+# THOTHS
 TiddlyWiki for THOTHS
